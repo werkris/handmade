@@ -1,0 +1,53 @@
+body {
+	background-color: #FFDEEF;
+}
+/* LOGO */
+.logo {
+	background-color: #D4D2D3;
+}
+.text_logo {
+	font-size: 32px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-align: right;
+	text-shadow: 3px 2px #878586;
+	padding: 1% 5%;
+}
+/* ADDRESS */
+.address {
+	text-align: center;
+	margin: 5% 30%;
+}
+.address img {
+	border-radius: 15px;
+	margin-bottom: 3%;
+}
+.address .ad_left {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 1% 0;
+}
+
+
+/* FOOTER */
+footer {
+	background-color: #D4D2D3;
+	padding: 1%;
+	text-align: right;
+	font-weight: bold;
+}
+footer a {
+	color: #CF0B5C;
+}
+footer a:hover {
+	color: #CF0B5C;
+}
+footer .home {
+	background-color: #ffffff; 
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+.fa-home {
+	font-size: 20px;
+}

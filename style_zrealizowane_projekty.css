@@ -1,0 +1,53 @@
+body {
+	background-color: #FFDEEF;
+}
+/* LOGO */
+.logo {
+	background-color: #D4D2D3;
+}
+.text_logo {
+	font-size: 32px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-align: right;
+	text-shadow: 3px 2px #878586;
+	padding: 1% 5%;
+}
+/* CAROUSEL */
+.carousel_boss {
+	margin: 5% 25%;
+}
+.carousel_boss .container {
+	width: 600px;
+	height: 400px;
+}
+.carousel_boss h2 {
+	letter-spacing: 2px;
+	text-align: center;
+	text-shadow: 2px 1px #CF0B5C;
+	font-size: 38px;
+}
+
+
+/* FOOTER */
+footer {
+	background-color: #D4D2D3;
+	padding: 1%;
+	text-align: right;
+	font-weight: bold;
+}
+footer a {
+	color: #CF0B5C;
+}
+footer a:hover {
+	color: #CF0B5C;
+}
+footer .home {
+	background-color: #ffffff; 
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+.fa-home {
+	font-size: 20px;
+}
