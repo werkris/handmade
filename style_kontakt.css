@@ -62,4 +62,7 @@ footer .home {
     .address img {
     	width: 80%;
     }
+    footer .home {
+    	margin-bottom: 5%;
+    }
 }

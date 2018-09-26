@@ -81,4 +81,6 @@ footer button {
     .col_three {
     	margin: 10% auto;
     }
+    .three button {
+    font-size: 28px;
 }

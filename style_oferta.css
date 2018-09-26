@@ -55,3 +55,18 @@ footer .home {
 .fa-home {
 	font-size: 20px;
 }
+
+@media only screen and (max-width: 768px) {
+    .text_logo {
+        text-align: center;
+    }
+    .oferty {
+    	margin: 15% auto;
+    }
+    .oferty img {
+    	width: 70%;
+    }
+    footer .home {
+    	margin-bottom: 5%;
+    }
+}
