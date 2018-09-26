@@ -54,8 +54,12 @@ footer .home {
 
 
 @media only screen and (max-width: 768px) {
+    body {
+    	margin: 0;
+    }
     .carousel_boss .container {
     	width: 400px;
+    	padding: 0;
     }
     .heading img {
 		width: 100%;
