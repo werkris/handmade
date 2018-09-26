@@ -51,3 +51,15 @@ footer .home {
 .fa-home {
 	font-size: 20px;
 }
+
+@media only screen and (max-width: 768px) {
+    .text_logo {
+        text-align: center;
+    }
+    .address {
+    	margin: 15% auto;
+    }
+    .address img {
+    	width: 80%;
+    }
+}
