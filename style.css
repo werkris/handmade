@@ -75,12 +75,22 @@ footer button {
 }
 
 @media only screen and (max-width: 768px) {
+	body {
+
+	}
+	.heading img {
+		width: 100%;
+	}
     .text_logo {
         text-align: center;
     }
     .col_three {
-    	margin: 10% auto;
+    	margin: 15% auto;
     }
     .three button {
-    font-size: 28px;
+    	font-size: 28px;
+    }
+    footer button {
+    	margin-bottom: 5%;
+    }
 }

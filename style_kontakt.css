@@ -18,6 +18,12 @@ body {
 	text-align: center;
 	margin: 5% 30%;
 }
+.address h2 {
+	letter-spacing: 2px;
+	text-align: center;
+	text-shadow: 2px 1px #CF0B5C;
+	font-size: 32px;
+}
 .address img {
 	border-radius: 15px;
 	margin-bottom: 3%;
@@ -53,6 +59,9 @@ footer .home {
 }
 
 @media only screen and (max-width: 768px) {
+    .heading img {
+		width: 100%;
+	}
     .text_logo {
         text-align: center;
     }

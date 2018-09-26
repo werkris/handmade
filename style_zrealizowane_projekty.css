@@ -54,18 +54,24 @@ footer .home {
 
 
 @media only screen and (max-width: 768px) {
+    .carousel_boss .container {
+    	width: 400px;
+    }
+    .heading img {
+		width: 100%;
+	}
     .text_logo {
         text-align: center;
     }
     .carousel_boss {
-    	margin: 15% auto;
+    	margin: 15% 0;
     }
     .carousel_boss h2 {
     	text-align: left;
     	font-size: 30px;
     }
     #myCarousel {
-    	width: 70%;
+    	width: 100%;
     }
     footer .home {
     	margin-bottom: 5%;

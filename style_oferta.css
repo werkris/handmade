@@ -57,6 +57,9 @@ footer .home {
 }
 
 @media only screen and (max-width: 768px) {
+    .heading img {
+		width: 100%;
+	}
     .text_logo {
         text-align: center;
     }
@@ -64,7 +67,8 @@ footer .home {
     	margin: 15% auto;
     }
     .oferty img {
-    	width: 70%;
+    	width: 80%;
+    	text-align: center;
     }
     footer .home {
     	margin-bottom: 5%;
